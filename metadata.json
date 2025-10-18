@@ -1,0 +1,5 @@
+{
+  "name": "Copy of JaLDev - AI Waste Segregation Dashboard",
+  "description": "A web-based dashboard to monitor and display real-time data from an AI-Enhanced Automated Waste Segregation System. It tracks waste classification, bin levels, system status, and performance metrics.",
+  "requestFramePermissions": []
+}
